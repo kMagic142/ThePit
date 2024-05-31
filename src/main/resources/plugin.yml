@@ -1,0 +1,5 @@
+name: ThePit
+main: ro.kmagic.Main
+version: 1.0.0
+author: kMagic
+softdepend: [PlaceholderAPI, MVdWPlaceholderAPI, Multiverse-Core, ViaVersion, ProtocolLib]
